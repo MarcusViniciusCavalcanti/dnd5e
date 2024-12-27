@@ -8,7 +8,7 @@
     "verified": "13.333"
   },
   "url": "https://github.com/MarcusViniciusCavalcanti/dnd5e/",
-  "manifest": "https://raw.githubusercontent.com/MarcusViniciusCavalcanti/dnd5e/refs/heads/4.2.x/system.json",
+  "manifest": "https://raw.githubusercontent.com/MarcusViniciusCavalcanti/dnd5e/master/system.json",
   "download": "https://github.com/MarcusViniciusCavalcanti/dnd5e/releases/download/4.2.1/source-4.2.1.zip",
   "authors": [
     {
